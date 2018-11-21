@@ -12,8 +12,8 @@ keywords: "开发者,编程,代码,开源,Developer,Programmer,Coder"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-#url: //xxx009.github.io
-#root: /
+url: //xxx009.github.io
+root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
 archive_dir: archives
